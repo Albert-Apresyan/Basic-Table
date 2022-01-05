@@ -1,0 +1,34 @@
+body {
+  max-width: 1140px;
+  margin: 0 auto;
+  background-color: #857fd1;
+}
+table {
+	font-family: arial, sans-serif;
+	border-radius: 5%;
+	width: 100px;
+  	margin-top:80px;
+	color: rgb(230, 217, 217);
+	background-color: #4C489D;
+}
+th {
+	border:none;
+	text-align: center;
+	padding: 8px;
+}
+.header{
+	text-align: center;
+	color: rgb(230, 217, 217);
+}
+td{
+	border: none;
+}
+tr{
+	text-align: center;
+	color: rgb(230, 217, 217);
+	border: none;
+}
+tr:nth-last-child(even) {
+	background-color: #7C78B8;
+}
+
